@@ -4,7 +4,6 @@ Olá 👋
 
 - 🔭 Atualmente estou trabalhando: Full House Rp
 - 🌱 Atualmente estou aprendendo: Typescript
-- 👯 Estou procurando colaborar
 - 🤔 Estou procurando ajuda com: Typescript
 - 💬 Pergunte-me sobre: O Que quiser
 - 😄 pronomes: Ele/Dele
