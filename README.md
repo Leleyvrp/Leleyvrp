@@ -1,6 +1,6 @@
 Olá 👋
 
-**Leleyvrp / Weslley** 
+**Leley / Weslley** 
 
 - 🔭 Atualmente estou trabalhando: Full House Rp
 - 🌱 Atualmente estou aprendendo: Typescript
