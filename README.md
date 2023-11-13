@@ -5,6 +5,6 @@ Olá 👋
 - 🔭 Atualmente estou trabalhando: Full House Rp
 - 🌱 Atualmente estou aprendendo: Typescript
 - 🤔 Estou procurando ajuda com: Typescript
-- 💬 Pergunte-me sobre: O Que quiser
+- 💬 Pergunte-me sobre: O Que Quiser
 - 😄 pronomes: Ele/Dele
-- ⚡ Fato engraçado: Ja fui corno
+- ⚡ Fato engraçado: Ja Fui Corno
