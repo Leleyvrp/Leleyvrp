@@ -12,3 +12,7 @@ Olá 👋
 - 📧 Aceito Propostas De Cidades
 - Discord Leley NetWork
 - https://discord.gg/6QhQQgp7dG
+
+**🧾 Contato** 
+- Discord: leleyfps
+- Insta: Leleyfps
