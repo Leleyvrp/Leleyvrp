@@ -2,7 +2,7 @@ Olá 👋
 
 **Leley / Weslley** 
 
-- 🔭 Atualmente estou trabalhando: FreeLancer
+- 🔭 Atualmente estou trabalhando: Next Roleplay
 - 👑 Ceo Leley Leley NetWork
 - 📜 Freelancer Dev Fivem
 - 🌱 Atualmente estou aprendendo: Typescript
@@ -10,8 +10,8 @@ Olá 👋
 - 💬 Pergunte-me sobre: O Que Quiser
 - ⚡ Fato engraçado: Ja Fui Corno
 - 📧 Aceito Propostas De Cidades
-- Discord Leley NetWork
-- https://discord.gg/6QhQQgp7dG
+- Discord SunShine Store
+- https://discord.gg/sunshinestore
 
 **🧾 Contato** 
 - Discord: leleyfps
