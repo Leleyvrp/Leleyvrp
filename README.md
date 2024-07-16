@@ -3,7 +3,7 @@ Olá 👋
 **Leley / Weslley** 
 
 - 🔭 Atualmente estou trabalhando: Next Roleplay
-- 👑 Ceo Leley Leley NetWork
+- 👑 Ceo Leley Network
 - 📜 Freelancer Dev Fivem
 - 🌱 Atualmente estou aprendendo: Typescript
 - 🤔 Estou procurando ajuda com: Typescript
