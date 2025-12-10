@@ -13,15 +13,15 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/seucanal" target="_blank" style="text-decoration: none; line-height: 0;">
+  <a href="https://youtube.com/@leleyfps" target="_blank" style="text-decoration: none; line-height: 0;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
 
-  <a href="https://instagram.com/seuusuario" target="_blank" style="text-decoration: none; line-height: 0;">
+  <a href="https://instagram.com/leleyfps" target="_blank" style="text-decoration: none; line-height: 0;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 
-  <a href="https://twitch.tv/seucanal" target="_blank" style="text-decoration: none; line-height: 0;">
+  <a href="https://twitch.tv/lelleyfps" target="_blank" style="text-decoration: none; line-height: 0;">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
 
