@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
-  <a href="https://www.linkedin.com/in/weslley-gon%C3%A7alves-3862572a9" target="_blank" style="text-decoration: none; line-height: 0;">
+  <a href="https://www.linkedin.com/in/weslley-gon%C3%A7alves-bezerra-santos-3862572a9/" target="_blank" style="text-decoration: none; line-height: 0;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
